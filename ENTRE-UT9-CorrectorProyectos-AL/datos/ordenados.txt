@@ -1,0 +1,36 @@
+              JAVIER
+     Título proyecto: BASE DE DATOS NOSQL - MONGODB
+  Nota documentación: 8,80
+Nota exposición oral: 9,00
+          Nota final: 8,86
+
+                JUAN
+     Título proyecto: AMAZON WEB SERVICES
+  Nota documentación: 8,00
+Nota exposición oral: 8,77
+          Nota final: 8,23
+
+          ANA ISABEL
+     Título proyecto: NAGIOS
+  Nota documentación: 7,70
+Nota exposición oral: 8,47
+          Nota final: 7,93
+
+             ALBERTO
+     Título proyecto: CONTENEDORES DOCKER
+  Nota documentación: 7,60
+Nota exposición oral: 5,57
+          Nota final: 6,99
+
+               ELISA
+     Título proyecto: AUTOMATIZACIÓN DE TAREAS CON ANSIBLE
+  Nota documentación: 4,20
+Nota exposición oral: 4,13
+          Nota final: 4,18
+
+             IGNACIO
+     Título proyecto: POWERSHELL
+  Nota documentación: 4,20
+Nota exposición oral: 4,13
+          Nota final: 4,18
+
